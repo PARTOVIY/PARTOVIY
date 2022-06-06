@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/partoviy" target="_blank">Artem</a> 
 <img src="https://github.com/PARTOVIY/PARTOVIY/blob/main/Hi.gif" height="32"/></h1>
 <h3 align="center">CEO & FOUNDER ALT:IT</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Founder+ALT%3AIT;Web+Developer;CEO+ALT%3ADONATE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Founder+ALT%3AIT;Web+Developer;CEO+ALT%3ADONATE)]
 
 <!--
 **PARTOVIY/PARTOVIY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
