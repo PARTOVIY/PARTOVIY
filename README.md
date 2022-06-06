@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/partoviy" target="_blank">Artem</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/PARTOVIY/PARTOVIY/blob/main/Hi.gif" height="32"/></h1>
 <h3 align="center">CEO & FOUNDER ALT:IT</h3>
 
 <!--
