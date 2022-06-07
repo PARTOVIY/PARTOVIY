@@ -1,37 +1,23 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/partoviy" target="_blank">Artem</a> 
 <img src="https://github.com/PARTOVIY/PARTOVIY/blob/main/Hi.gif" height="32"/></h1>
 <h3 align="center">CEO & FOUNDER ALT:IT</h3>
+
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "PARTOVIY"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["ru_RU", "en_US"]
 
-    def say_hi(self):
+    def hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.hi()
 ```
-
-<!--
-**PARTOVIY/PARTOVIY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
